@@ -6,7 +6,10 @@ This is a web based application developed for health related medical website
 
 
 **Project Link** - https://agreeable-river-01bf29c00.4.azurestaticapps.net/
-**project demo video link- https://drive.google.com/file/d/1Vh9XJDzRoqGLJvFYQJbqJhQ1Uo1cKhq-/view?usp=drive_link
+
+
+
+** project demo video link** - https://drive.google.com/file/d/1Vh9XJDzRoqGLJvFYQJbqJhQ1Uo1cKhq-/view?usp=drive_link
 
 # Azure technologies used for project:-
 . static web apps
